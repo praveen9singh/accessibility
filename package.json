@@ -1,0 +1,22 @@
+{
+  "name": "accessibility",
+  "version": "1.0.0",
+  "description": "Accessibility features test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveen9singh/accessibility.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveen9singh/accessibility/issues"
+  },
+  "homepage": "https://github.com/praveen9singh/accessibility#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
